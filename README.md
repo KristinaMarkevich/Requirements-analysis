@@ -1,6 +1,6 @@
 # Requirements-analysis
 
-Выполнение октрытого задания на анализ требований. Эта задача была взята из профиля [Vladislav-Mobile](https://github.com/Vladislav-Mobile)
+Выполнение октрытого задания на анализ требований. Данная задача была взята из профиля [Vladislav-Mobile](https://github.com/Vladislav-Mobile)
 
 Необходимо проанализировать требования и макет к мобильному приложению.
 
